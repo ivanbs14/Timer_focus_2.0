@@ -17,7 +17,7 @@ Layout UI/UX RocketSeat.
 
 Você pode visualizar e interagir com a pagina do projeto através 
 <p align="center">
-<a href="">Click aqui </a>
+<a href="https://ivanbs14.github.io/Timer_focus_2.0/">Click aqui </a>
 </p>
 
 <p align="center">
